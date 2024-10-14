@@ -15,7 +15,8 @@
 
 
 
+**Result of program**
 
-
+[result](result.png)
 
 dotnet new winforms - for new consol project.
