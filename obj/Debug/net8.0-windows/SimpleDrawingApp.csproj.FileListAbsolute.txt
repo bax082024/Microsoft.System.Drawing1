@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\bin\Debug\net8.0-windows\SimpleDrawingApp.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\bin\Debug\net8.0-windows\SimpleDrawingApp.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\bin\Debug\net8.0-windows\SimpleDrawingApp.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\bin\Debug\net8.0-windows\SimpleDrawingApp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\bin\Debug\net8.0-windows\SimpleDrawingApp.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\refint\SimpleDrawingApp.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\SimpleDrawingApp.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\SimpleDrawingApp\obj\Debug\net8.0-windows\ref\SimpleDrawingApp.dll

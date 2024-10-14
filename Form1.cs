@@ -17,7 +17,7 @@ public partial class Form1 : Form
     {
         base.OnPaint(e);
 
-        Graphics g = 3.Graphics;
+        Graphics g = e.Graphics;
         g.DrawRectangle(Pens.Black, 50, 50, 200, 100);
 
         g.DrawEllipse(Pens.Blue, 300, 50, 200, 100);
